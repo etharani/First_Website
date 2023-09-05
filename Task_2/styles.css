@@ -1,0 +1,61 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a background color and text styles */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+}
+
+/* Style the header and navigation */
+header {
+    background-color:hsl(260, 89%, 15%);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Style the sections */
+section {
+    padding: 100px;
+
+}
+
+/* Style individual projects */
+.page{
+    background-color:#fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
+
+/* Style the footer */
+footer {
+    background-color: hsl(260, 89%, 15%);
+    color:rgb(250, 247, 243);
+    text-align: center;
+    padding: 10px }
+
+
+
+
+
